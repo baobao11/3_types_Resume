@@ -1,0 +1,19 @@
+.pre{
+	white-space: pre;
+}
+#jianli{
+	display: block;
+	color: beige;
+	background-color: dodgerblue;
+	float: left;
+	padding-bottom: 50%;
+	padding-top: 1.25rem;
+	padding-right: 3.125rem;
+	padding-left: 3.125rem;
+	//margin-right: 1.25rem;
+}
+#body_here{
+	text-align: left;
+	margin-left: 1.25rem;
+	float: left;
+}

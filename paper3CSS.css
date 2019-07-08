@@ -1,0 +1,34 @@
+div.textshow{
+	font-size: x-small;
+}
+#pre{
+	white-space: pre;
+}
+#jianli{
+	color: #F5F5DC;
+	background-color: chocolate;
+	padding-top: 0.3125rem;
+	padding-bottom: 0.3125rem;
+}
+.span{
+	float: left;
+	font-weight: 300;
+	text-align: center;
+	display: block;
+	width: 8%;
+	height:100px;
+	padding: 8%,100px;
+	margin-right: 4%;
+	color:#F5F5DC;
+	background-color: burlywood;
+	border: 1;	
+}
+.textshow{	
+	width:60% ;
+	height: 6.25rem;
+	overflow: visible;
+}
+.divide{
+	border-bottom: #000000;
+	border:1;
+}
